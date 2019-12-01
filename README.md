@@ -1,2 +1,0 @@
-# GithubAPI
-Angular for githubAPI
