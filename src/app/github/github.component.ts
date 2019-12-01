@@ -42,7 +42,7 @@ export class GithubComponent implements OnInit {
 
   	this.githubService.getRepos().subscribe(repos => {
   		
-  		this.repos = repos;
+		  this.repos = repos;
 	  });
 	this.githubService.getFollowers().subscribe(followers => {
   		
